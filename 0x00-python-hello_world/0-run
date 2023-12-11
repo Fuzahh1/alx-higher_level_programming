@@ -1,7 +1,2 @@
-#!/usr/bin/python3
-
-void main
-{
-$PYFILE = "0-run"
-print($PYFILE)
-}
+#!/bin/bash
+python3 $PYFILE
